@@ -1,12 +1,14 @@
 # Pizza Sales Dashboard | Power BI + SQL
 
 # Overview
-Pizza sales analysis dashboard built using Power BI, SQL and CSV dataset.
+## Overview
+Interactive Pizza Sales Dashboard built using Power BI and SQL to analyze sales performance, order trends, category insights, and top/bottom performing pizzas.
 
 # Tools Used
 - Power BI
 - SQL
 - CSV Dataset
+- Data Visualization
 
 # KPIs
 - Total Revenue
