@@ -31,12 +31,12 @@ order most, and which pizzas underperform.
   bottom 5 should be reviewed for menu optimization.
 
 # KPIs Tracked
-| Metric              | Value 
-| Total Revenue       | $817.86K 
-| Total Orders        | 21,350 
-| Total Pizzas Sold   | 49,574 
-| Avg Order Value     | $38.31 
-| Avg Pizzas Per Order | 2.32 
+ Metric - Value 
+- Total Revenue:  $817.86K 
+- Total Orders: 21,350 
+- Total Pizzas Sold: 49,574 
+- Avg Order Value: $38.31 
+- Avg Pizzas Per Order 2.32 
 
 # Files
 [Power BI Dashboard](Sales%20Dashboard.pbix)
