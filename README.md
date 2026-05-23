@@ -1,33 +1,46 @@
-# Pizza Sales Dashboard | Power BI + SQL
+# Pizza Sales Analytics Dashboard | Power BI + SQL
 
-# Overview
-## Overview
-Interactive Pizza Sales Dashboard built using Power BI and SQL to analyze sales performance, order trends, category insights, and top/bottom performing pizzas.
+An end-to-end data analytics project analyzing 48,620+ pizza 
+order records to uncover sales trends, category performance, 
+and operational insights.
+
+# Problem Statement
+A pizza restaurant chain needed visibility into its sales 
+performance — which products drive revenue, when customers 
+order most, and which pizzas underperform.
 
 # Tools Used
-- Power BI
-- SQL
-- CSV Dataset
-- Data Visualization
+- SQL Server — data extraction and business queries
+- Power BI — interactive dashboard and DAX measures
+- Excel — initial data exploration
 
-# KPIs
-- Total Revenue
-- Average Order Value
-- Total Orders
-- Total Pizza Sold
-- Average Pizza Per Order
+# Dashboard Preview 
+[Dashboard](dashboard.png)
 
-# Analysis
-- Daily Order Trend
-- Monthly Trend
-- Sales by Category
-- Sales by Pizza Size
-- Top & Bottom Performing Pizzas
+# Key Insights
+- **Peak ordering days are Thursday & Friday** — suggesting 
+  pre-weekend buying behaviour. Promotions should target 
+  Wed–Thu to capture early demand.
+- **Classic category leads volume** at 26.9% of total sales, 
+  but Large size drives 45.9% of all orders — bundle deals 
+  on Classic Large could maximize revenue.
+- **July is the strongest month** (1,935 orders) while 
+  October is the weakest (1,646) — seasonal promotions 
+  needed in Q4.
+- **Top 5 pizzas account for disproportionate revenue** — 
+  bottom 5 should be reviewed for menu optimization.
 
-## Files Included
-- Sales Dashboard.pbix
-- pizza_sales.csv
-- PIZZA SALES SQL QUERIES.txt
+# KPIs Tracked
+| Metric              | Value 
+| Total Revenue       | $817.86K 
+| Total Orders        | 21,350 
+| Total Pizzas Sold   | 49,574 
+| Avg Order Value     | $38.31 
+| Avg Pizzas Per Order | 2.32 
 
-# Dashboard Preview
-![Dashboard](dashboard.png)
+# Files
+[Power BI Dashboard](Sales%20Dashboard.pbix)
+
+[Dataset](pizza_sales.csv)
+
+[SQL Queries](PIZZA%20SALES%20SQL%20QUERIES.txt)
