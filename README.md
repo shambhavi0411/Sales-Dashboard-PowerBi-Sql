@@ -1,4 +1,4 @@
-# Sales Analytics Dashboard | Power BI + SQL
+# PizzaMetrics — Sales & Performance Dashboard (Power BI + SQL)
 
 An end-to-end data analytics project analyzing 48,620+ pizza 
 order records to uncover sales trends, category performance, 
