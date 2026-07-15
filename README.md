@@ -14,8 +14,8 @@ order most, and which pizzas underperform.
 - Power BI — interactive dashboard and DAX measures
 - Excel — initial data exploration
 
-# Dashboard Preview 
-[Dashboard](dashboard.png)
+## Dashboard Preview
+![Pizza Sales Dashboard](dashboard.png)
 
 # Key Insights
 - **Peak ordering days are Thursday & Friday** — suggesting 
@@ -44,3 +44,6 @@ order most, and which pizzas underperform.
 [Dataset](pizza_sales.csv)
 
 [SQL Queries](PIZZA%20SALES%20SQL%20QUERIES.txt)
+
+**Connect with Me:** [LinkedIn](https://www.linkedin.com/in/shambhavi-mishra-a22281319/) • [GitHub](https://github.com/shambhavi0411)
+
